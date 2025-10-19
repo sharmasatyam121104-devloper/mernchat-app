@@ -16,7 +16,7 @@ server/dist/
 
 # Environment variables
 .env
-client/.env
+client copy/.env
 server/.env
 
 # Logs
